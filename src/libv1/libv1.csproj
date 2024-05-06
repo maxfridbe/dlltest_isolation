@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+     <ProjectReference Include="..\dllHell\dllHell.csproj" >
+      <Private>false</Private>
+      <CopyLocalSatelliteAssemblies>false</CopyLocalSatelliteAssemblies>
+    </ProjectReference>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetName>mylib</TargetName>
+    <RootNamespace>mylib</RootNamespace>
+<Version>2.0.0</Version>
+<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+
+  </PropertyGroup>
+
+</Project>

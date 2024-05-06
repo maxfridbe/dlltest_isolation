@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libv1", "libv1\libv1.csproj", "{D6D9F489-9C49-422F-833E-E1FDE8416233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libv2", "libv2\libv2.csproj", "{941A3522-05D3-4F2F-96BA-9C25D70E59DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllHell", "dllHell\dllHell.csproj", "{C80DB9EB-E1FF-4F1B-BDEA-5F97A0E9DEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D9F489-9C49-422F-833E-E1FDE8416233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D9F489-9C49-422F-833E-E1FDE8416233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D9F489-9C49-422F-833E-E1FDE8416233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D9F489-9C49-422F-833E-E1FDE8416233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941A3522-05D3-4F2F-96BA-9C25D70E59DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941A3522-05D3-4F2F-96BA-9C25D70E59DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941A3522-05D3-4F2F-96BA-9C25D70E59DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941A3522-05D3-4F2F-96BA-9C25D70E59DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80DB9EB-E1FF-4F1B-BDEA-5F97A0E9DEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80DB9EB-E1FF-4F1B-BDEA-5F97A0E9DEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80DB9EB-E1FF-4F1B-BDEA-5F97A0E9DEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80DB9EB-E1FF-4F1B-BDEA-5F97A0E9DEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
